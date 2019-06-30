@@ -40,26 +40,28 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 ## Learning
 
-|       Status       | Course                                      |       Tutor        |
-| :----------------: | :------------------------------------------ | :----------------: |
-| :white_check_mark: | [Responsive Web Design]                     |  [Free Code Camp]  |
-| :white_check_mark: | [Front End Libraries]                       |  [Free Code Camp]  |
-| :white_check_mark: | [Javascript Algorithms and Data Structures] |  [Free Code Camp]  |
-| :white_check_mark: | [The React Handbook]                        |   [flavio copes]   |
-| :white_check_mark: | [The CSS Handbook]                          |   [flavio copes]   |
-| :white_check_mark: | [The Road to Learn React]                   |  [robin weiruch]   |
-|        :on:        | [Taming the state in React]                 |  [robin weiruch]   |
-|        :on:        | Read [Eloquent JavaScript]                  | [Marijn Haverbeke] |
-|       :soon:       | [JavaScript30]                              |     [Wes Bos]      |
-|       :soon:       | [The Road to GraphQl]                       |  [robin weiruch]   |
-|       :soon:       | [You Don't know JavaScript]                 |    Kyle Simpson    |
-|       :soon:       | [Pro React 16]                              |    Adam Freeman    |
+|       Status       | Course                                                     |       Tutor        |
+| :----------------: | :--------------------------------------------------------- | :----------------: |
+| :white_check_mark: | Hands On Course[Responsive Web Design]                     |  [Free Code Camp]  |
+| :white_check_mark: | Hands On Course[Front End Libraries]                       |  [Free Code Camp]  |
+| :white_check_mark: | Hands On Course[Javascript Algorithms and Data Structures] |  [Free Code Camp]  |
+| :white_check_mark: | Book: [The React Handbook]                                 |   [flavio copes]   |
+| :white_check_mark: | Book: [The CSS Handbook]                                   |   [flavio copes]   |
+| :white_check_mark: | Book: [The Road to Learn React]                            |  [robin weiruch]   |
+|        :on:        | Book: [Taming the state in React]                          |  [robin weiruch]   |
+|        :on:        | Book: [Eloquent JavaScript]                                | [Marijn Haverbeke] |
+|        :on:        | Path: [Pluralsight React]                                  | [pluralsight.com]  |
+|       :soon:       | Course: [JavaScript30]                                     |     [Wes Bos]      |
+|       :soon:       | Book: [The Road to GraphQl]                                |  [robin weiruch]   |
+|       :soon:       | Book: [DOM Enlightenment]                                  |   [Cody Lindley]   |
+|       :soon:       | Book: [You Don't know JavaScript]                          |    Kyle Simpson    |
 
 [//]: # "Reference links to courses"
 [responsive web design]: https://www.freecodecamp.org/jj2007
 [front end libraries]: https://www.freecodecamp.org/jj2007
 [the react handbook]: https://reacthandbook.com/
 [the css handbook]: https://flaviocopes.com/css/
+[pluralsight react]: https://www.pluralsight.com/paths/react
 [javascript algorithms and data structures]: https://www.freecodecamp.org/jj2007
 [the road to learn react]: https://roadtoreact.com/
 [the road to graphql]: https://roadtoreact.com/
@@ -69,7 +71,7 @@ A complete log of my development skills, learning, resources, highlights, intere
 [eloquent javascript]: http://eloquentjavascript.net/
 [//]: # "Reference links to tutors"
 [flavio copes]: https://twitter.com/flaviocopes
-[lynda.com]: https://www.lynda.com
+[pluralsight.com]: https://www.pluralsight.com
 [free code camp]: https://www.freecodecamp.org
 [wes bos]: https://wesbos.com/
 [robin weiruch]: https://www.robinwieruch.de/
