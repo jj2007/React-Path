@@ -82,7 +82,9 @@ A complete log of my development skills, learning, resources, highlights, intere
 
 | Paths with multiple resources                   |       Author        |
 | :---------------------------------------------- | :-----------------: |
+| [awesome-react]                                 |       [enaqx]       |
 | [React, Redux, ES6, and more links]             |   [mark erikson]    |
+| [JS dev reads]                                  |   [Tiffany White]   |
 | [Best React books, tutorials, courses & videos] |     [reactdom]      |
 | [Get Job ready - JavaScript Edition]            |       [P1xt]        |
 | [Full Stack Web Developer Path]                 | [Shovan Chatterjee] |
@@ -90,8 +92,16 @@ A complete log of my development skills, learning, resources, highlights, intere
 [//]: # "Reference links to paths"
 [react, redux, es6, and more links]: https://github.com/markerikson/react-redux-links
 [full stack web developer path]: https://github.com/shovanch/fullstack-web-developer-path
+[js dev reads]: https://github.com/twhite96/js-dev-reads
+[awesome-react]: https://github.com/enaqx/awesome-react
 [//]: # "Reference links to authors"
 [reactdom]: https://reactdom.com
 [p1xt]: https://github.com/P1xt
 [shovan chatterjee]: https://github.com/shovanch
 [mark erikson]: https://github.com/markerikson
+
+### Project Ideas
+
+Here you can find multiple project Ideas to implement yourself.
+
+https://react.rocks
