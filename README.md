@@ -1,44 +1,44 @@
-# React Learning Tracker
+# React Learning and Resource Tracker
 
-A complete log of my development skills, learning, resources, highlights, interests. It's a way to keep track, organise, and share my learning.
+A list of resources gathered by me on road to master Javascript and React.
 
 [Click here for my Portfolio](https://jj2007.github.io/ "https://jj2007.github.io")
 
 ---
 
-## Skills
+## Skills I rate myself as :
 
-| Skill                   | :star:<br>Introduction | :star::star:<br>Basics | :star::star::star:<br>Good | :star::star::star::star:<br>Confident | :star::star::star::star::star:<br>Advanced | :star::star::star::star::star::star:<br>Expert |
-| :---------------------- | :--------------------: | :--------------------: | :------------------------: | :-----------------------------------: | :----------------------------------------: | :--------------------------------------------: |
-| **HTML5**               |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **CSS3**                |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **JavaScript**          |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **ES6**                 |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **React**               |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **Redux**               |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |                                                |
-| **Git**                 |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **GitHub**              |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Webpack**             |   :white_check_mark:   |                        |                            |                                       |                                            |                                                |
-| **Agile**               |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |                                                |
-| **Working with APIs**   |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **jQuery**              |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |                                                |
-| **Css Grid & Flex-box** |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Responsive design**   |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Accessibility**       |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **Markdown**            |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Website Building**    |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Publishing website**  |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **Bootstrap**           |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **Command line**        |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |                                                |
-| **Ruby**                |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **NPM**                 |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |                                                |
-| **Jenkins**             |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |                                                |
-| **Python**              |   :white_check_mark:   |                        |                            |                                       |                                            |                                                |
-| **SQL**                 |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |                                                |
+| Skill                   | :star:<br>Introduction | :star::star:<br>Basics | :star::star::star:<br>Good | :star::star::star::star:<br>Confident | :star::star::star::star::star:<br>Advanced |
+| :---------------------- | :--------------------: | :--------------------: | :------------------------: | :-----------------------------------: | :----------------------------------------: |
+| **HTML5**               |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **CSS3**                |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **JavaScript**          |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **ES6**                 |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **React**               |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **Redux**               |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |  |
+| **Git**                 |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **GitHub**              |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Webpack**             |   :white_check_mark:   |                        |                            |                                       |                                            |  |
+| **Agile**               |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |  |
+| **Working with APIs**   |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **jQuery**              |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |  |
+| **Css Grid & Flex-box** |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Responsive design**   |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Accessibility**       |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **Markdown**            |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Website Building**    |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Publishing website**  |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **Bootstrap**           |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **Command line**        |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |          :white_check_mark:           |                                            |  |
+| **Ruby**                |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **NPM**                 |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |  |
+| **Jenkins**             |   :white_check_mark:   |   :white_check_mark:   |     :white_check_mark:     |                                       |                                            |  |
+| **Python**              |   :white_check_mark:   |                        |                            |                                       |                                            |  |
+| **SQL**                 |   :white_check_mark:   |   :white_check_mark:   |                            |                                       |                                            |  |
 
 ---
 
-## Learning
+## Resources I use
 
 |       Status       | Course                                                     |       Tutor        |
 | :----------------: | :--------------------------------------------------------- | :----------------: |
@@ -78,11 +78,12 @@ A complete log of my development skills, learning, resources, highlights, intere
 [marijn haverbeke]: https://marijnhaverbeke.nl/
 [egghead.io]: https://egghead.io/
 
-### Paths
+### Paths for more additional awesome information.
 
 | Paths with multiple resources                   |       Author        |
 | :---------------------------------------------- | :-----------------: |
 | [awesome-react]                                 |       [enaqx]       |
+| [33-js-concepts]                                |    [leonardomso]    |
 | [React, Redux, ES6, and more links]             |   [mark erikson]    |
 | [JS dev reads]                                  |   [Tiffany White]   |
 | [Best React books, tutorials, courses & videos] |     [reactdom]      |
@@ -94,13 +95,14 @@ A complete log of my development skills, learning, resources, highlights, intere
 [full stack web developer path]: https://github.com/shovanch/fullstack-web-developer-path
 [js dev reads]: https://github.com/twhite96/js-dev-reads
 [awesome-react]: https://github.com/enaqx/awesome-react
+[33-js-concepts]: https://github.com/leonardomso/33-js-concepts
 [//]: # "Reference links to authors"
 [reactdom]: https://reactdom.com
 [p1xt]: https://github.com/P1xt
 [shovan chatterjee]: https://github.com/shovanch
 [mark erikson]: https://github.com/markerikson
 
-### Project Ideas
+### Project Ideas for React/Javascript
 
 Here you can find multiple project Ideas to implement yourself.
 
