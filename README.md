@@ -83,9 +83,11 @@ A list of resources gathered by me on road to master Javascript and React.
 | Paths with multiple resources                   |       Author        |
 | :---------------------------------------------- | :-----------------: |
 | [awesome-react]                                 |       [enaqx]       |
+| [awesome-redux]                                 |      [xgrommx]      |
 | [33-js-concepts]                                |    [leonardomso]    |
-| [React, Redux, ES6, and more links]             |   [mark erikson]    |
 | [JS dev reads]                                  |   [Tiffany White]   |
+| [React Interview Questions]                     |     [sudheerj]      |
+| [React, Redux, ES6, and more links]             |   [mark erikson]    |
 | [Best React books, tutorials, courses & videos] |     [reactdom]      |
 | [Get Job ready - JavaScript Edition]            |       [P1xt]        |
 | [Full Stack Web Developer Path]                 | [Shovan Chatterjee] |
@@ -95,7 +97,9 @@ A list of resources gathered by me on road to master Javascript and React.
 [full stack web developer path]: https://github.com/shovanch/fullstack-web-developer-path
 [js dev reads]: https://github.com/twhite96/js-dev-reads
 [awesome-react]: https://github.com/enaqx/awesome-react
+[awesome-redux]: https://github.com/xgrommx/awesome-redux
 [33-js-concepts]: https://github.com/leonardomso/33-js-concepts
+[react interview questions]: https://github.com/sudheerj/reactjs-interview-questions
 [//]: # "Reference links to authors"
 [reactdom]: https://reactdom.com
 [p1xt]: https://github.com/P1xt
