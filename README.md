@@ -51,7 +51,7 @@ A list of resources gathered by me on road to master Javascript and React.
 |        :on:        | Book: [Taming the state in React]                          |  [robin weiruch]   |
 |        :on:        | Book: [Eloquent JavaScript]                                | [Marijn Haverbeke] |
 |        :on:        | Path: [Pluralsight React]                                  | [pluralsight.com]  |
-|       :soon:       | Course: [JavaScript30]                                     |     [Wes Bos]      |
+|        :on:        | Course: [React - The Complete Guide]                       |    [udemy.com]     | 
 |       :soon:       | Book: [The Road to GraphQl]                                |  [robin weiruch]   |
 |       :soon:       | Book: [DOM Enlightenment]                                  |   [Cody Lindley]   |
 |       :soon:       | Book: [You Don't know JavaScript]                          |    Kyle Simpson    |
